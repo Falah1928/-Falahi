@@ -2,5 +2,6 @@ Informathic class hmpi
 -desain
   *figma
 -php
--php
+ *CI
 -phython
+ *Django 4.2Lts
