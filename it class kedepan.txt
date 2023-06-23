@@ -5,6 +5,8 @@ Informathic class hmpi
  *CI
  *AdminLTE
  *postgresql
+ *laravel
+ *mysql
 -phython
  *Django 4.2Lts
  *Flask
