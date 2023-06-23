@@ -3,5 +3,7 @@ Informathic class hmpi
   *figma
 -php
  *CI
+ *laravel
+ *mysql
 -phython
  *Django 4.2Lts
