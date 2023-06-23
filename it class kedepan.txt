@@ -1,3 +1,6 @@
-Informatika class hmpi
+Informathic class hmpi
 -desain
--git & github
+  *figma
+-php
+-php
+-phython
