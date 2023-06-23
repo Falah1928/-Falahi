@@ -10,3 +10,4 @@ Informathic class hmpi
 -phython
  *Django 4.2Lts
  *Flask
+=================
