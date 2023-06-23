@@ -4,3 +4,4 @@ Informathic class hmpi
 -php
  *CI
 -phython
+ *Django 4.2Lts
