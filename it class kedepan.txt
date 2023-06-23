@@ -1,0 +1,3 @@
+Informatika class hmpi
+-desain
+-git & github
