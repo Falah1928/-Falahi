@@ -2,5 +2,5 @@ Informathic class hmpi
 -desain
   *figma
 -php
--php
+ *CI
 -phython
